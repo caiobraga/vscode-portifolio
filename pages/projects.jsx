@@ -34,7 +34,7 @@ const ProjectsPage = () => {
       id: 1,
       article:{
         url:"https://top-polos-kex3vk34i-caiobraga.vercel.app/",
-        cover_image:"/shop-logo.PNG ",
+        cover_image:"/shop-logo.png ",
         title:"Top Polos",
         description:"top polos foi uma loja feita a pedido de cliente. Ela foi feita no conceito de Headless eCommerce e tem uma das maiores notas possíveis em eficiência por utilizar de next.js + react e ser hospedade no vercel tanto seu front-end quanto seu backend. Além disso a loja faz integração com uma GraphQL API"
       }
